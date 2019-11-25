@@ -1,4 +1,4 @@
-# [Tvořím Web od A do Z)(https://github.com/czechitas/tvorim-web-a-z): Podklady pro 9. lekci
+# [Tvořím Web od A do Z](https://github.com/czechitas/tvorim-web-a-z): Podklady pro 9. lekci
 
 ## Příklady
 
